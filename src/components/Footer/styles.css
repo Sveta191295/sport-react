@@ -1,0 +1,42 @@
+.page-footer{
+  background-color: #212121;
+}
+
+.social-footer{
+    background-color: #212121 ;
+    
+}
+.mt-3{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.text-md-right>a{
+    padding: 0 25px;
+}
+.footer-info-row{
+    justify-content: center;
+    text-align: center;
+    margin: 50px !important;
+}
+.your-account>a{
+    font-size: .9rem;
+    text-transform: unset;
+    text-decoration: underline;
+}
+
+.brand-box{
+    display: flex;
+    justify-content: center;
+}
+.brand{
+    width: 100px;
+    height: 50px;
+  
+}
+.brand img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}

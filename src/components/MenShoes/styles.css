@@ -1,0 +1,18 @@
+.men-shoes-section{
+    min-height: 1000px;
+    margin: 50px auto;
+}
+.row>h1{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.menu-box{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+.menu-box>div {
+    margin-bottom: 10px;
+}

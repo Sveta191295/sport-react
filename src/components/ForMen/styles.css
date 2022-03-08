@@ -1,0 +1,57 @@
+.men-category-section{
+    width: 100%;
+    min-height: 500px;
+    display: flex;
+}
+
+
+.men-text{
+   width: 40%;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   background-color: #212121;
+   
+}
+.men-text h2{
+    text-transform: uppercase;
+    color: rgb(248, 246, 244);
+    font-weight: 700;
+}
+.men-link-style{
+    width: 500px;
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.men-img-bg{
+width: 60%;
+background-image: url(./images/men.jpg);
+background-size: cover;
+background-position: center;
+height: 500px;
+}
+
+.men-style-link{
+    width: 200px;
+  height: 60px;
+  border: 4px solid rgb(248, 246, 244);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.men-link-style{
+    color: rgb(248, 246, 244);
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.men-link-style:hover{
+    color: rgba(248, 246, 244, 0.336);
+   
+}
